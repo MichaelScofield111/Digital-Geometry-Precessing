@@ -4,5 +4,5 @@ build
 # ignore .vscode
 .vscode
 
-# ignore all txt
-*.txt
+# ignore /src all txt
+/src/**/*.txt
