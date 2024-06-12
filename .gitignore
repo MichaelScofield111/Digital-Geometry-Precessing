@@ -1,0 +1,8 @@
+# ignore build
+build
+
+# ignore .vscode
+.vscode
+
+# ignore all txt
+*.txt
